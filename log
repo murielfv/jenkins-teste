@@ -1,0 +1,46 @@
+
+Configuraá∆o de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : ifg.flamboyant
+
+Adaptador Ethernet VirtualBox Host-Only Network:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::ad15:b22e:913:e022%19
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.202.2
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 12:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::43c:83fd:8d8:5915%14
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.0.155
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.0.1
+
+Adaptador de t£nel Conex∆o Local* 2:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 . . . . . . . . . . : 2001:0:5ef5:79fd:10e7:b48:4c01:f8b1
+   Endereáo IPv6 de link local . . . . . . . . : fe80::10e7:b48:4c01:f8b1%12
+   Gateway Padr∆o. . . . . . . . . . . . . . . : ::
+
+Adaptador de t£nel isatap.{9C5875E8-E667-4AEE-A2E1-3108B7D60CC5}:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de t£nel isatap.{C98616AB-369B-4E2C-B8B2-EA42782EB358}:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
